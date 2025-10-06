@@ -59,26 +59,6 @@ Me especializo en:
   
 </div>
 
----
-
-## 💼 Proyectos Destacados
-
-### 🔹 [BarberEz](https://github.com/AndresOrtizJDK/BarberEz-SpringBoot)
-Sistema de gestión para barberías desarrollado con Spring Boot. Incluye gestión de citas, clientes y servicios.
-- **Tech Stack**: Java, Spring Boot
-- **Características**: API RESTful, arquitectura MVC, gestión de base de datos
-
-### 🔹 [Synapzys](https://github.com/AndresOrtizJDK/Synapzys)
-Aplicación web moderna con interfaces interactivas y diseño responsive.
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Características**: Diseño responsive, UX/UI optimizada
-
-### 🔹 [Convertidor](https://github.com/AndresOrtizJDK/Convertidor)
-Aplicación web para conversión de unidades con interfaz intuitiva.
-- **Tech Stack**: Python, HTML, CSS
-- **Características**: Backend Python, interfaz web amigable
-
----
 
 ## 📈 Actividad de Desarrollo
 
