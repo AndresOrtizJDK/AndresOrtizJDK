@@ -6,9 +6,11 @@
   
   **Ingeniero de Software | Desarrollador Full Stack | Entusiasta de la Tecnología**
   
-  [LinkedIn](https://www.linkedin.com/in/ingandresortiz/) • [Email](mailto:andresortizrodriguez123@gmail.com)
+  <a href="https://www.linkedin.com/in/ingandresortiz/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:andresortizrodriguez123@gmail.com" target="_blank">Email</a>
   
 </div>
+
 
 ---
 
