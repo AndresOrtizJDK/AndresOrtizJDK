@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AndresOrtizJDK&color=blueviolet)
   
-  **Ingeniero de Software | Desarrollador Full Stack | Entusiasta de la Tecnología**
+  **Ingeniero de Sistemas | Desarrollador Full Stack | Entusiasta de la Tecnología**
   
   <a href="https://www.linkedin.com/in/ingandresortiz/" target="_blank">LinkedIn</a> • 
   <a href="mailto:andresortizrodriguez123@gmail.com" target="_blank">Email</a>
